@@ -1,2 +1,3 @@
-ZHEKA
-perezheka)
+Hello everyone!
+i am Yevhenii, i learning Epam Frontend Development.
+Bye.
