@@ -1,4 +1,6 @@
-hello
-i`m delet file "sigale" ))
-it`s very bad file))
-bye
+-hello
+-i`m delet file "sigale" ))
+-it`s very bad file))
+-bye
+ZHEKA
+perezheka)
